@@ -1,4 +1,4 @@
-[Go To DrawIo](https://n0ttytalks.github.io/drawio/src/main/webapp/index.html)
+[Go to the builder](https://n0ttytalks.github.io/drawio/src/main/webapp/index.html)
 
 About
 -----
